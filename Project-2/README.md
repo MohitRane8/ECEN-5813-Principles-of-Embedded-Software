@@ -57,7 +57,7 @@ exit | <none> | Exit the program.
 
 ### Linux Functioning Example
 Image:
-![alt text](https://github.com/MohitRane8/ECEN-5813-Principles-of-Embedded-Software/Project-2/blob/master/Linux/images/linux_example.JPG)
+![alt text](https://github.com/MohitRane8/ECEN-5813-Principles-of-Embedded-Software/blob/master/Project-2/Linux/images/linux_example.JPG)
 
 ## In Kinetis Design Studio (for FRDM-KL25Z)
 Installation Steps:
