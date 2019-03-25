@@ -1,0 +1,11 @@
+int help(int a);
+int allo(int a);
+int free_mem(int a);
+int write(int a);
+int display(int a);
+int xor_inv();
+int rand_gen(int a);
+int verify_pattern();
+int exit_app(int a);
+int clear(int a);
+//extern int memptr;
